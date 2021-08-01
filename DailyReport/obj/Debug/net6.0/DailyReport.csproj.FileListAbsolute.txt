@@ -1,0 +1,14 @@
+C:\Visual_Studio_Projects\DailyReport\bin\Debug\net6.0\DailyReport.exe
+C:\Visual_Studio_Projects\DailyReport\bin\Debug\net6.0\DailyReport.deps.json
+C:\Visual_Studio_Projects\DailyReport\bin\Debug\net6.0\DailyReport.runtimeconfig.json
+C:\Visual_Studio_Projects\DailyReport\bin\Debug\net6.0\DailyReport.dll
+C:\Visual_Studio_Projects\DailyReport\bin\Debug\net6.0\ref\DailyReport.dll
+C:\Visual_Studio_Projects\DailyReport\bin\Debug\net6.0\DailyReport.pdb
+C:\Visual_Studio_Projects\DailyReport\obj\Debug\net6.0\DailyReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\DailyReport\obj\Debug\net6.0\DailyReport.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\DailyReport\obj\Debug\net6.0\DailyReport.AssemblyInfo.cs
+C:\Visual_Studio_Projects\DailyReport\obj\Debug\net6.0\DailyReport.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\DailyReport\obj\Debug\net6.0\DailyReport.dll
+C:\Visual_Studio_Projects\DailyReport\obj\Debug\net6.0\ref\DailyReport.dll
+C:\Visual_Studio_Projects\DailyReport\obj\Debug\net6.0\DailyReport.pdb
+C:\Visual_Studio_Projects\DailyReport\obj\Debug\net6.0\DailyReport.genruntimeconfig.cache
