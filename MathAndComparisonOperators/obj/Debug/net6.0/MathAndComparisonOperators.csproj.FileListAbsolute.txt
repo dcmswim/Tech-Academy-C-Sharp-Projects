@@ -1,0 +1,15 @@
+C:\Visual_Studio_Projects\MathAndComparisonOperators\bin\Debug\net6.0\MathAndComparisonOperators.exe
+C:\Visual_Studio_Projects\MathAndComparisonOperators\bin\Debug\net6.0\MathAndComparisonOperators.deps.json
+C:\Visual_Studio_Projects\MathAndComparisonOperators\bin\Debug\net6.0\MathAndComparisonOperators.runtimeconfig.json
+C:\Visual_Studio_Projects\MathAndComparisonOperators\bin\Debug\net6.0\MathAndComparisonOperators.dll
+C:\Visual_Studio_Projects\MathAndComparisonOperators\bin\Debug\net6.0\ref\MathAndComparisonOperators.dll
+C:\Visual_Studio_Projects\MathAndComparisonOperators\bin\Debug\net6.0\MathAndComparisonOperators.pdb
+C:\Visual_Studio_Projects\MathAndComparisonOperators\obj\Debug\net6.0\MathAndComparisonOperators.csproj.AssemblyReference.cache
+C:\Visual_Studio_Projects\MathAndComparisonOperators\obj\Debug\net6.0\MathAndComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\MathAndComparisonOperators\obj\Debug\net6.0\MathAndComparisonOperators.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\MathAndComparisonOperators\obj\Debug\net6.0\MathAndComparisonOperators.AssemblyInfo.cs
+C:\Visual_Studio_Projects\MathAndComparisonOperators\obj\Debug\net6.0\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\MathAndComparisonOperators\obj\Debug\net6.0\MathAndComparisonOperators.dll
+C:\Visual_Studio_Projects\MathAndComparisonOperators\obj\Debug\net6.0\ref\MathAndComparisonOperators.dll
+C:\Visual_Studio_Projects\MathAndComparisonOperators\obj\Debug\net6.0\MathAndComparisonOperators.pdb
+C:\Visual_Studio_Projects\MathAndComparisonOperators\obj\Debug\net6.0\MathAndComparisonOperators.genruntimeconfig.cache
