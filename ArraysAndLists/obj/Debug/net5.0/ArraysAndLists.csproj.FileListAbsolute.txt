@@ -1,0 +1,16 @@
+C:\Visual_Studio_Projects\ArraysAndLists\bin\Debug\net5.0\ArraysAndLists.exe
+C:\Visual_Studio_Projects\ArraysAndLists\bin\Debug\net5.0\ArraysAndLists.deps.json
+C:\Visual_Studio_Projects\ArraysAndLists\bin\Debug\net5.0\ArraysAndLists.runtimeconfig.json
+C:\Visual_Studio_Projects\ArraysAndLists\bin\Debug\net5.0\ArraysAndLists.runtimeconfig.dev.json
+C:\Visual_Studio_Projects\ArraysAndLists\bin\Debug\net5.0\ArraysAndLists.dll
+C:\Visual_Studio_Projects\ArraysAndLists\bin\Debug\net5.0\ref\ArraysAndLists.dll
+C:\Visual_Studio_Projects\ArraysAndLists\bin\Debug\net5.0\ArraysAndLists.pdb
+C:\Visual_Studio_Projects\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.csproj.AssemblyReference.cache
+C:\Visual_Studio_Projects\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.AssemblyInfo.cs
+C:\Visual_Studio_Projects\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.dll
+C:\Visual_Studio_Projects\ArraysAndLists\obj\Debug\net5.0\ref\ArraysAndLists.dll
+C:\Visual_Studio_Projects\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.pdb
+C:\Visual_Studio_Projects\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.genruntimeconfig.cache
