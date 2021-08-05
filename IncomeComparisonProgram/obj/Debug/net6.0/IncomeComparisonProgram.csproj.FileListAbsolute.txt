@@ -1,0 +1,15 @@
+C:\Visual_Studio_Projects\IncomeComparisonProgram\bin\Debug\net6.0\IncomeComparisonProgram.exe
+C:\Visual_Studio_Projects\IncomeComparisonProgram\bin\Debug\net6.0\IncomeComparisonProgram.deps.json
+C:\Visual_Studio_Projects\IncomeComparisonProgram\bin\Debug\net6.0\IncomeComparisonProgram.runtimeconfig.json
+C:\Visual_Studio_Projects\IncomeComparisonProgram\bin\Debug\net6.0\IncomeComparisonProgram.dll
+C:\Visual_Studio_Projects\IncomeComparisonProgram\bin\Debug\net6.0\ref\IncomeComparisonProgram.dll
+C:\Visual_Studio_Projects\IncomeComparisonProgram\bin\Debug\net6.0\IncomeComparisonProgram.pdb
+C:\Visual_Studio_Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.csproj.AssemblyReference.cache
+C:\Visual_Studio_Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.AssemblyInfo.cs
+C:\Visual_Studio_Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.dll
+C:\Visual_Studio_Projects\IncomeComparisonProgram\obj\Debug\net6.0\ref\IncomeComparisonProgram.dll
+C:\Visual_Studio_Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.pdb
+C:\Visual_Studio_Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.genruntimeconfig.cache
