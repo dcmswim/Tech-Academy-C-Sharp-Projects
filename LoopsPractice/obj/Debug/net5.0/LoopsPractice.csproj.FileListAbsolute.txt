@@ -1,0 +1,15 @@
+C:\Visual_Studio_Projects\LoopsPractice\bin\Debug\net5.0\LoopsPractice.exe
+C:\Visual_Studio_Projects\LoopsPractice\bin\Debug\net5.0\LoopsPractice.deps.json
+C:\Visual_Studio_Projects\LoopsPractice\bin\Debug\net5.0\LoopsPractice.runtimeconfig.json
+C:\Visual_Studio_Projects\LoopsPractice\bin\Debug\net5.0\LoopsPractice.runtimeconfig.dev.json
+C:\Visual_Studio_Projects\LoopsPractice\bin\Debug\net5.0\LoopsPractice.dll
+C:\Visual_Studio_Projects\LoopsPractice\bin\Debug\net5.0\ref\LoopsPractice.dll
+C:\Visual_Studio_Projects\LoopsPractice\bin\Debug\net5.0\LoopsPractice.pdb
+C:\Visual_Studio_Projects\LoopsPractice\obj\Debug\net5.0\LoopsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\LoopsPractice\obj\Debug\net5.0\LoopsPractice.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\LoopsPractice\obj\Debug\net5.0\LoopsPractice.AssemblyInfo.cs
+C:\Visual_Studio_Projects\LoopsPractice\obj\Debug\net5.0\LoopsPractice.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\LoopsPractice\obj\Debug\net5.0\LoopsPractice.dll
+C:\Visual_Studio_Projects\LoopsPractice\obj\Debug\net5.0\ref\LoopsPractice.dll
+C:\Visual_Studio_Projects\LoopsPractice\obj\Debug\net5.0\LoopsPractice.pdb
+C:\Visual_Studio_Projects\LoopsPractice\obj\Debug\net5.0\LoopsPractice.genruntimeconfig.cache
