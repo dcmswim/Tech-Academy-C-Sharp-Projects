@@ -1,0 +1,15 @@
+C:\Visual_Studio_Projects\Shipping\bin\Debug\net5.0\Shipping.exe
+C:\Visual_Studio_Projects\Shipping\bin\Debug\net5.0\Shipping.deps.json
+C:\Visual_Studio_Projects\Shipping\bin\Debug\net5.0\Shipping.runtimeconfig.json
+C:\Visual_Studio_Projects\Shipping\bin\Debug\net5.0\Shipping.runtimeconfig.dev.json
+C:\Visual_Studio_Projects\Shipping\bin\Debug\net5.0\Shipping.dll
+C:\Visual_Studio_Projects\Shipping\bin\Debug\net5.0\ref\Shipping.dll
+C:\Visual_Studio_Projects\Shipping\bin\Debug\net5.0\Shipping.pdb
+C:\Visual_Studio_Projects\Shipping\obj\Debug\net5.0\Shipping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\Shipping\obj\Debug\net5.0\Shipping.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\Shipping\obj\Debug\net5.0\Shipping.AssemblyInfo.cs
+C:\Visual_Studio_Projects\Shipping\obj\Debug\net5.0\Shipping.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\Shipping\obj\Debug\net5.0\Shipping.dll
+C:\Visual_Studio_Projects\Shipping\obj\Debug\net5.0\ref\Shipping.dll
+C:\Visual_Studio_Projects\Shipping\obj\Debug\net5.0\Shipping.pdb
+C:\Visual_Studio_Projects\Shipping\obj\Debug\net5.0\Shipping.genruntimeconfig.cache
