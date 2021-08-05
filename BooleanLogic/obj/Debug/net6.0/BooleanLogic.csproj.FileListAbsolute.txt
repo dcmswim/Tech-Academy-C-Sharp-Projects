@@ -1,0 +1,14 @@
+C:\Visual_Studio_Projects\BooleanLogic\bin\Debug\net6.0\BooleanLogic.exe
+C:\Visual_Studio_Projects\BooleanLogic\bin\Debug\net6.0\BooleanLogic.deps.json
+C:\Visual_Studio_Projects\BooleanLogic\bin\Debug\net6.0\BooleanLogic.runtimeconfig.json
+C:\Visual_Studio_Projects\BooleanLogic\bin\Debug\net6.0\BooleanLogic.dll
+C:\Visual_Studio_Projects\BooleanLogic\bin\Debug\net6.0\ref\BooleanLogic.dll
+C:\Visual_Studio_Projects\BooleanLogic\bin\Debug\net6.0\BooleanLogic.pdb
+C:\Visual_Studio_Projects\BooleanLogic\obj\Debug\net6.0\BooleanLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\BooleanLogic\obj\Debug\net6.0\BooleanLogic.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\BooleanLogic\obj\Debug\net6.0\BooleanLogic.AssemblyInfo.cs
+C:\Visual_Studio_Projects\BooleanLogic\obj\Debug\net6.0\BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\BooleanLogic\obj\Debug\net6.0\BooleanLogic.dll
+C:\Visual_Studio_Projects\BooleanLogic\obj\Debug\net6.0\ref\BooleanLogic.dll
+C:\Visual_Studio_Projects\BooleanLogic\obj\Debug\net6.0\BooleanLogic.pdb
+C:\Visual_Studio_Projects\BooleanLogic\obj\Debug\net6.0\BooleanLogic.genruntimeconfig.cache
