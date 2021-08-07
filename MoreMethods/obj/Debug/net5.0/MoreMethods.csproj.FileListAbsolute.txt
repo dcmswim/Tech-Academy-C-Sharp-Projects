@@ -1,0 +1,15 @@
+C:\Visual_Studio_Projects\MoreMethods\bin\Debug\net5.0\MoreMethods.exe
+C:\Visual_Studio_Projects\MoreMethods\bin\Debug\net5.0\MoreMethods.deps.json
+C:\Visual_Studio_Projects\MoreMethods\bin\Debug\net5.0\MoreMethods.runtimeconfig.json
+C:\Visual_Studio_Projects\MoreMethods\bin\Debug\net5.0\MoreMethods.runtimeconfig.dev.json
+C:\Visual_Studio_Projects\MoreMethods\bin\Debug\net5.0\MoreMethods.dll
+C:\Visual_Studio_Projects\MoreMethods\bin\Debug\net5.0\ref\MoreMethods.dll
+C:\Visual_Studio_Projects\MoreMethods\bin\Debug\net5.0\MoreMethods.pdb
+C:\Visual_Studio_Projects\MoreMethods\obj\Debug\net5.0\MoreMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\MoreMethods\obj\Debug\net5.0\MoreMethods.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\MoreMethods\obj\Debug\net5.0\MoreMethods.AssemblyInfo.cs
+C:\Visual_Studio_Projects\MoreMethods\obj\Debug\net5.0\MoreMethods.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\MoreMethods\obj\Debug\net5.0\MoreMethods.dll
+C:\Visual_Studio_Projects\MoreMethods\obj\Debug\net5.0\ref\MoreMethods.dll
+C:\Visual_Studio_Projects\MoreMethods\obj\Debug\net5.0\MoreMethods.pdb
+C:\Visual_Studio_Projects\MoreMethods\obj\Debug\net5.0\MoreMethods.genruntimeconfig.cache
