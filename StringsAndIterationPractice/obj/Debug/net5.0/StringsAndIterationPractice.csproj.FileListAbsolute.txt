@@ -1,0 +1,16 @@
+C:\Visual_Studio_Projects\StringsAndIterationPractice\obj\Debug\net5.0\StringsAndIterationPractice.csproj.AssemblyReference.cache
+C:\Visual_Studio_Projects\StringsAndIterationPractice\obj\Debug\net5.0\StringsAndIterationPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\StringsAndIterationPractice\obj\Debug\net5.0\StringsAndIterationPractice.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\StringsAndIterationPractice\obj\Debug\net5.0\StringsAndIterationPractice.AssemblyInfo.cs
+C:\Visual_Studio_Projects\StringsAndIterationPractice\obj\Debug\net5.0\StringsAndIterationPractice.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\StringsAndIterationPractice\bin\Debug\net5.0\StringsAndIterationPractice.exe
+C:\Visual_Studio_Projects\StringsAndIterationPractice\bin\Debug\net5.0\StringsAndIterationPractice.deps.json
+C:\Visual_Studio_Projects\StringsAndIterationPractice\bin\Debug\net5.0\StringsAndIterationPractice.runtimeconfig.json
+C:\Visual_Studio_Projects\StringsAndIterationPractice\bin\Debug\net5.0\StringsAndIterationPractice.runtimeconfig.dev.json
+C:\Visual_Studio_Projects\StringsAndIterationPractice\bin\Debug\net5.0\StringsAndIterationPractice.dll
+C:\Visual_Studio_Projects\StringsAndIterationPractice\bin\Debug\net5.0\ref\StringsAndIterationPractice.dll
+C:\Visual_Studio_Projects\StringsAndIterationPractice\bin\Debug\net5.0\StringsAndIterationPractice.pdb
+C:\Visual_Studio_Projects\StringsAndIterationPractice\obj\Debug\net5.0\StringsAndIterationPractice.dll
+C:\Visual_Studio_Projects\StringsAndIterationPractice\obj\Debug\net5.0\ref\StringsAndIterationPractice.dll
+C:\Visual_Studio_Projects\StringsAndIterationPractice\obj\Debug\net5.0\StringsAndIterationPractice.pdb
+C:\Visual_Studio_Projects\StringsAndIterationPractice\obj\Debug\net5.0\StringsAndIterationPractice.genruntimeconfig.cache
