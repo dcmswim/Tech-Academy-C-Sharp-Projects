@@ -1,0 +1,16 @@
+C:\Visual_Studio_Projects\CallMethod\bin\Debug\net5.0\CallMethod.exe
+C:\Visual_Studio_Projects\CallMethod\bin\Debug\net5.0\CallMethod.deps.json
+C:\Visual_Studio_Projects\CallMethod\bin\Debug\net5.0\CallMethod.runtimeconfig.json
+C:\Visual_Studio_Projects\CallMethod\bin\Debug\net5.0\CallMethod.runtimeconfig.dev.json
+C:\Visual_Studio_Projects\CallMethod\bin\Debug\net5.0\CallMethod.dll
+C:\Visual_Studio_Projects\CallMethod\bin\Debug\net5.0\ref\CallMethod.dll
+C:\Visual_Studio_Projects\CallMethod\bin\Debug\net5.0\CallMethod.pdb
+C:\Visual_Studio_Projects\CallMethod\obj\Debug\net5.0\CallMethod.csproj.AssemblyReference.cache
+C:\Visual_Studio_Projects\CallMethod\obj\Debug\net5.0\CallMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\CallMethod\obj\Debug\net5.0\CallMethod.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\CallMethod\obj\Debug\net5.0\CallMethod.AssemblyInfo.cs
+C:\Visual_Studio_Projects\CallMethod\obj\Debug\net5.0\CallMethod.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\CallMethod\obj\Debug\net5.0\CallMethod.dll
+C:\Visual_Studio_Projects\CallMethod\obj\Debug\net5.0\ref\CallMethod.dll
+C:\Visual_Studio_Projects\CallMethod\obj\Debug\net5.0\CallMethod.pdb
+C:\Visual_Studio_Projects\CallMethod\obj\Debug\net5.0\CallMethod.genruntimeconfig.cache
