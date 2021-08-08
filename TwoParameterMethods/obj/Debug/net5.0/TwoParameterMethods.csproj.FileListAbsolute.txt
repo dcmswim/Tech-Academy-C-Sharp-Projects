@@ -1,0 +1,16 @@
+C:\Visual_Studio_Projects\TwoParameterMethods\bin\Debug\net5.0\TwoParameterMethods.exe
+C:\Visual_Studio_Projects\TwoParameterMethods\bin\Debug\net5.0\TwoParameterMethods.deps.json
+C:\Visual_Studio_Projects\TwoParameterMethods\bin\Debug\net5.0\TwoParameterMethods.runtimeconfig.json
+C:\Visual_Studio_Projects\TwoParameterMethods\bin\Debug\net5.0\TwoParameterMethods.runtimeconfig.dev.json
+C:\Visual_Studio_Projects\TwoParameterMethods\bin\Debug\net5.0\TwoParameterMethods.dll
+C:\Visual_Studio_Projects\TwoParameterMethods\bin\Debug\net5.0\ref\TwoParameterMethods.dll
+C:\Visual_Studio_Projects\TwoParameterMethods\bin\Debug\net5.0\TwoParameterMethods.pdb
+C:\Visual_Studio_Projects\TwoParameterMethods\obj\Debug\net5.0\TwoParameterMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\TwoParameterMethods\obj\Debug\net5.0\TwoParameterMethods.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\TwoParameterMethods\obj\Debug\net5.0\TwoParameterMethods.AssemblyInfo.cs
+C:\Visual_Studio_Projects\TwoParameterMethods\obj\Debug\net5.0\TwoParameterMethods.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\TwoParameterMethods\obj\Debug\net5.0\TwoParameterMethods.dll
+C:\Visual_Studio_Projects\TwoParameterMethods\obj\Debug\net5.0\ref\TwoParameterMethods.dll
+C:\Visual_Studio_Projects\TwoParameterMethods\obj\Debug\net5.0\TwoParameterMethods.pdb
+C:\Visual_Studio_Projects\TwoParameterMethods\obj\Debug\net5.0\TwoParameterMethods.genruntimeconfig.cache
+C:\Visual_Studio_Projects\TwoParameterMethods\obj\Debug\net5.0\TwoParameterMethods.csproj.AssemblyReference.cache
