@@ -1,0 +1,16 @@
+C:\Visual_Studio_Projects\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.exe
+C:\Visual_Studio_Projects\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.deps.json
+C:\Visual_Studio_Projects\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.runtimeconfig.json
+C:\Visual_Studio_Projects\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.runtimeconfig.dev.json
+C:\Visual_Studio_Projects\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.dll
+C:\Visual_Studio_Projects\MethodsAndObjects\bin\Debug\net5.0\ref\MethodsAndObjects.dll
+C:\Visual_Studio_Projects\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.pdb
+C:\Visual_Studio_Projects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Visual_Studio_Projects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.AssemblyInfo.cs
+C:\Visual_Studio_Projects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.dll
+C:\Visual_Studio_Projects\MethodsAndObjects\obj\Debug\net5.0\ref\MethodsAndObjects.dll
+C:\Visual_Studio_Projects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.pdb
+C:\Visual_Studio_Projects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.genruntimeconfig.cache
