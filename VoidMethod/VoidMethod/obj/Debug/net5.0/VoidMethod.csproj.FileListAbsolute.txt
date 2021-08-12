@@ -1,0 +1,16 @@
+C:\Visual_Studio_Projects\VoidMethod\bin\Debug\net5.0\VoidMethod.exe
+C:\Visual_Studio_Projects\VoidMethod\bin\Debug\net5.0\VoidMethod.deps.json
+C:\Visual_Studio_Projects\VoidMethod\bin\Debug\net5.0\VoidMethod.runtimeconfig.json
+C:\Visual_Studio_Projects\VoidMethod\bin\Debug\net5.0\VoidMethod.runtimeconfig.dev.json
+C:\Visual_Studio_Projects\VoidMethod\bin\Debug\net5.0\VoidMethod.dll
+C:\Visual_Studio_Projects\VoidMethod\bin\Debug\net5.0\ref\VoidMethod.dll
+C:\Visual_Studio_Projects\VoidMethod\bin\Debug\net5.0\VoidMethod.pdb
+C:\Visual_Studio_Projects\VoidMethod\obj\Debug\net5.0\VoidMethod.csproj.AssemblyReference.cache
+C:\Visual_Studio_Projects\VoidMethod\obj\Debug\net5.0\VoidMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\VoidMethod\obj\Debug\net5.0\VoidMethod.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\VoidMethod\obj\Debug\net5.0\VoidMethod.AssemblyInfo.cs
+C:\Visual_Studio_Projects\VoidMethod\obj\Debug\net5.0\VoidMethod.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\VoidMethod\obj\Debug\net5.0\VoidMethod.dll
+C:\Visual_Studio_Projects\VoidMethod\obj\Debug\net5.0\ref\VoidMethod.dll
+C:\Visual_Studio_Projects\VoidMethod\obj\Debug\net5.0\VoidMethod.pdb
+C:\Visual_Studio_Projects\VoidMethod\obj\Debug\net5.0\VoidMethod.genruntimeconfig.cache
