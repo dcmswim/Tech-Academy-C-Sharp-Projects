@@ -7,13 +7,21 @@ namespace VoidMethod
         public static void Main(string[] args)
         {
             //instantiate class
-            Math add1 = new Math();
-            Math.add1(0, 0); 
-            
+            Math math = new Math();
+            math.num1 = 15;
+            math.num2 = 10;
 
+            //takes user input as integer variables and adds them together
+            Console.WriteLine("Please enter a number.");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("You entered " + num1 + ". Please enter a second number.");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Second number is " + num2 + ". Adding numbers together...");
+            int result = num1 + num2;
+            Console.WriteLine("The result is " + result);
 
-
-
+            //call class method specifying parameter names
+            math.add1(num1, num2);
 
 
 

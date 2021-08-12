@@ -8,19 +8,16 @@ namespace VoidMethod
 {
     public class Math
     {
-        public static void add1(int num1, int num2)
+        public int num1 {  get; set; }
+        public int num2 { get; set; }
+
+        public void add1(int num1, int num2)
         {
-
-            Console.WriteLine("Please enter a number.");
-            num1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("You entered " + num1 + ". Please enter a second number.");
-            num2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Second number is " + num2 + ". Adding numbers together...");
-            int result = num1 + num2;
-            Console.WriteLine("The result is " + result);
-            
-
-        }
-     }
+           int sum = num1 + 10;
+            Console.WriteLine(sum);
+            Console.WriteLine(num2);
+            return;
+         }
+    }
 
 }
