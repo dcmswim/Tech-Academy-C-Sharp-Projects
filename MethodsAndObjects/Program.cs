@@ -7,7 +7,7 @@ namespace MethodsAndObjects
         static void Main(string[] args)
         {
             //instantiate class 
-            Employee employee= new Employee();
+            Employee employee = new Employee();
             //assigning values to class properties
             employee.FirstName = "Sample";
             employee.LastName = "Student";

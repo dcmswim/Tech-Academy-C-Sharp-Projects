@@ -10,5 +10,11 @@ namespace MethodsAndObjects
     public class Employee : Person
     {
         public int Id { get; set; }
+        //using method from inherited class
+        //in this case it is using method same as is defined in parent method with no changes
+        public override void SayName()
+        {
+            base.SayName();
+        }
     }
 }
