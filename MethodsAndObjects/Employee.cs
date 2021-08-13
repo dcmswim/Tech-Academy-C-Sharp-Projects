@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace MethodsAndObjects
 {
     //this class inherits from class 'Person'
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         public int Id { get; set; }
         //using method from inherited class
@@ -15,6 +15,11 @@ namespace MethodsAndObjects
         public override void SayName()
         {
             base.SayName();
+        }
+        //class must use this method since it is a requirement of the inherited interface
+        public void Quit()
+        {
+            Console.WriteLine("Termination notice received. Employee will be removed.");
         }
     }
 }
