@@ -21,5 +21,17 @@ namespace MethodsAndObjects
         {
             Console.WriteLine("Termination notice received. Employee will be removed.");
         }
+
+        //overloading '==' operator to check if 2 employee objs are same by comparing Id property
+        public static bool operator== (Employee a, Employee b)
+        {
+            return (a.Id==b.Id);
+        }
+        public static bool operator!= (Employee a, Employee b)
+        {
+            return (a.Id!=b.Id);
+        }
+       
+        }
     }
 }
