@@ -1,0 +1,16 @@
+C:\Visual_Studio_Projects\DaysOfWeek\bin\Debug\net5.0\DaysOfWeek.exe
+C:\Visual_Studio_Projects\DaysOfWeek\bin\Debug\net5.0\DaysOfWeek.deps.json
+C:\Visual_Studio_Projects\DaysOfWeek\bin\Debug\net5.0\DaysOfWeek.runtimeconfig.json
+C:\Visual_Studio_Projects\DaysOfWeek\bin\Debug\net5.0\DaysOfWeek.runtimeconfig.dev.json
+C:\Visual_Studio_Projects\DaysOfWeek\bin\Debug\net5.0\DaysOfWeek.dll
+C:\Visual_Studio_Projects\DaysOfWeek\bin\Debug\net5.0\ref\DaysOfWeek.dll
+C:\Visual_Studio_Projects\DaysOfWeek\bin\Debug\net5.0\DaysOfWeek.pdb
+C:\Visual_Studio_Projects\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.csproj.AssemblyReference.cache
+C:\Visual_Studio_Projects\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.AssemblyInfo.cs
+C:\Visual_Studio_Projects\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.dll
+C:\Visual_Studio_Projects\DaysOfWeek\obj\Debug\net5.0\ref\DaysOfWeek.dll
+C:\Visual_Studio_Projects\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.pdb
+C:\Visual_Studio_Projects\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.genruntimeconfig.cache
