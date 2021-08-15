@@ -1,0 +1,16 @@
+C:\Visual_Studio_Projects\Lambda\bin\Debug\net5.0\Lambda.exe
+C:\Visual_Studio_Projects\Lambda\bin\Debug\net5.0\Lambda.deps.json
+C:\Visual_Studio_Projects\Lambda\bin\Debug\net5.0\Lambda.runtimeconfig.json
+C:\Visual_Studio_Projects\Lambda\bin\Debug\net5.0\Lambda.runtimeconfig.dev.json
+C:\Visual_Studio_Projects\Lambda\bin\Debug\net5.0\Lambda.dll
+C:\Visual_Studio_Projects\Lambda\bin\Debug\net5.0\ref\Lambda.dll
+C:\Visual_Studio_Projects\Lambda\bin\Debug\net5.0\Lambda.pdb
+C:\Visual_Studio_Projects\Lambda\obj\Debug\net5.0\Lambda.csproj.AssemblyReference.cache
+C:\Visual_Studio_Projects\Lambda\obj\Debug\net5.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\Lambda\obj\Debug\net5.0\Lambda.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\Lambda\obj\Debug\net5.0\Lambda.AssemblyInfo.cs
+C:\Visual_Studio_Projects\Lambda\obj\Debug\net5.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\Lambda\obj\Debug\net5.0\Lambda.dll
+C:\Visual_Studio_Projects\Lambda\obj\Debug\net5.0\ref\Lambda.dll
+C:\Visual_Studio_Projects\Lambda\obj\Debug\net5.0\Lambda.pdb
+C:\Visual_Studio_Projects\Lambda\obj\Debug\net5.0\Lambda.genruntimeconfig.cache
