@@ -1,0 +1,16 @@
+C:\Visual_Studio_Projects\DateTimeLogs\obj\Debug\net5.0\DateTimeLogs.csproj.AssemblyReference.cache
+C:\Visual_Studio_Projects\DateTimeLogs\obj\Debug\net5.0\DateTimeLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_Studio_Projects\DateTimeLogs\obj\Debug\net5.0\DateTimeLogs.AssemblyInfoInputs.cache
+C:\Visual_Studio_Projects\DateTimeLogs\obj\Debug\net5.0\DateTimeLogs.AssemblyInfo.cs
+C:\Visual_Studio_Projects\DateTimeLogs\obj\Debug\net5.0\DateTimeLogs.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\DateTimeLogs\bin\Debug\net5.0\DateTimeLogs.exe
+C:\Visual_Studio_Projects\DateTimeLogs\bin\Debug\net5.0\DateTimeLogs.deps.json
+C:\Visual_Studio_Projects\DateTimeLogs\bin\Debug\net5.0\DateTimeLogs.runtimeconfig.json
+C:\Visual_Studio_Projects\DateTimeLogs\bin\Debug\net5.0\DateTimeLogs.runtimeconfig.dev.json
+C:\Visual_Studio_Projects\DateTimeLogs\bin\Debug\net5.0\DateTimeLogs.dll
+C:\Visual_Studio_Projects\DateTimeLogs\bin\Debug\net5.0\ref\DateTimeLogs.dll
+C:\Visual_Studio_Projects\DateTimeLogs\bin\Debug\net5.0\DateTimeLogs.pdb
+C:\Visual_Studio_Projects\DateTimeLogs\obj\Debug\net5.0\DateTimeLogs.dll
+C:\Visual_Studio_Projects\DateTimeLogs\obj\Debug\net5.0\ref\DateTimeLogs.dll
+C:\Visual_Studio_Projects\DateTimeLogs\obj\Debug\net5.0\DateTimeLogs.pdb
+C:\Visual_Studio_Projects\DateTimeLogs\obj\Debug\net5.0\DateTimeLogs.genruntimeconfig.cache
