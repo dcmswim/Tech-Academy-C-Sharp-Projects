@@ -19,9 +19,11 @@ namespace Constructor
             Console.WriteLine("What is your last name?");
             string lname = Console.ReadLine();
             //using var keyword to create variable
-            var person = new Person(fname, lname);
-            Console.WriteLine(person.credits);
+            var fullName = fname + " " + lname;
+            Console.WriteLine(fullName);
+
             Console.ReadLine();
+
         }
     }
 }
